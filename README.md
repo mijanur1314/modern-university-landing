@@ -255,11 +255,3 @@ Through this project, the following concepts were implemented and practiced:
 # 📄 License
 
 This project was developed for educational and internship assignment purposes.
-
----
-
-# ⭐ Final Note
-
-EduVerse demonstrates modern frontend engineering practices focused on clean architecture, responsive design, smooth interactions, and scalable UI development.
-
-The project aims to deliver a polished and professional user experience while maintaining clean and maintainable code standards.
